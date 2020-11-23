@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05895178-4e99-4b4d-97ee-4cb934b1c002" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test_find_by_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_find_elements.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
     </list>
@@ -48,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for test_find_by_class.FindByClassAttribute">
+  <component name="RunManager" selected="Python tests.Unittests for test_find_elements.FindElements">
     <configuration name="Unittests for test_find_by_class.FindByClassAttribute" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,13 +119,27 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests for test_find_elements.FindElements" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_find_elements.FindElements&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for test_find_elements.FindElements" />
         <item itemvalue="Python tests.Unittests for test_find_by_class.FindByClassAttribute" />
         <item itemvalue="Python tests.Unittests for test_find_by_class.FindByClassAttribute.test_find_class_attribute_1" />
         <item itemvalue="Python tests.Unittests for test_find_by_name.IdentifyElementByName" />
         <item itemvalue="Python tests.Unittests for test_find_by_id.IdentifyElement" />
-        <item itemvalue="Python tests.Unittests for test_find_by_name.IdentifyElementByName" />
       </list>
     </recent_temporary>
   </component>
