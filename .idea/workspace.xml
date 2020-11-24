@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05895178-4e99-4b4d-97ee-4cb934b1c002" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test_find_by_link.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_find_by_tag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_find_by_x_path.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
     </list>
@@ -31,6 +32,7 @@
   <component name="ProjectId" id="1kY7YS25oWxpF7XqRv3awGnsZLs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -48,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for test_find_by_link.FindByLink">
+  <component name="RunManager" selected="Python tests.Unittests for test_find_by_x_path.FindByXPath">
     <configuration name="Unittests for test_find_by_class.FindByClassAttribute" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,20 +62,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_find_by_class.FindByClassAttribute&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for test_find_by_class.FindByClassAttribute.test_find_class_attribute_1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_find_by_class.FindByClassAttribute.test_find_class_attribute_1&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -105,7 +93,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_find_by_name.IdentifyElementByName" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_find_by_tag.FindByTag" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,7 +103,21 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_find_by_name.IdentifyElementByName&quot;" />
+      <option name="_new_target" value="&quot;test_find_by_tag.FindByTag&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_find_by_x_path.FindByXPath" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_find_by_x_path.FindByXPath&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -135,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for test_find_by_x_path.FindByXPath" />
+        <item itemvalue="Python tests.Unittests for test_find_by_tag.FindByTag" />
         <item itemvalue="Python tests.Unittests for test_find_by_link.FindByLink" />
         <item itemvalue="Python tests.Unittests for test_find_elements.FindElements" />
         <item itemvalue="Python tests.Unittests for test_find_by_class.FindByClassAttribute" />
-        <item itemvalue="Python tests.Unittests for test_find_by_class.FindByClassAttribute.test_find_class_attribute_1" />
-        <item itemvalue="Python tests.Unittests for test_find_by_name.IdentifyElementByName" />
       </list>
     </recent_temporary>
   </component>
