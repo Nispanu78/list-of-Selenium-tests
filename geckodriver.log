@@ -430,3 +430,171 @@ JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_
 JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
 1606218840961	Marionette	INFO	Stopped listening on port 52869
 JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1606226359476	geckodriver	INFO	Listening on 127.0.0.1:50737
+1606226360785	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofilenDxUs0"
+[Parent 8457, IPC Launch #1] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 1299
+[Parent 8457, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+[Parent 8457, IPC Launch #1] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 1299
+[Parent 8457, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1064: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+Exiting due to channel error.
+1606226424703	geckodriver	INFO	Listening on 127.0.0.1:51577
+1606226426105	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofilewJ9rBc"
+[Parent 8477, IPC Launch #1] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 1299
+[Parent 8477, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+[Parent 8477, IPC Launch #1] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 1299
+[Parent 8477, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+[Parent 8477, IPC Launch #1] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 1299
+[Parent 8477, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1064: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+Exiting due to channel error.
+1606226499907	geckodriver	INFO	Listening on 127.0.0.1:52435
+1606226500081	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileZadj70"
+Exiting due to channel error.
+Exiting due to channel error.
+1606226562442	geckodriver	INFO	Listening on 127.0.0.1:53265
+1606226563437	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileh2SznW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+[Parent 8528, IPC Launch #1] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 1299
+[Parent 8528, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+[Parent 8528, IPC Launch #2] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 1299
+[Parent 8528, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+1606226608500	Marionette	INFO	Listening on port 53276
+1606226609121	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606226614497	Marionette	INFO	Stopped listening on port 53276
+1606226892805	geckodriver	INFO	Listening on 127.0.0.1:55061
+1606226892934	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofile5WW1rN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606226910608	Marionette	INFO	Listening on port 55066
+1606226910652	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606226944502	Marionette	INFO	Stopped listening on port 55066
+1606226945551	geckodriver	INFO	Listening on 127.0.0.1:55476
+1606226946648	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileMpC9wD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606226957598	Marionette	INFO	Listening on port 55487
+1606226957694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606226959205	Marionette	INFO	Stopped listening on port 55487
+JavaScript error: http://demo-m2.bird.eu/static/version1599663438/frontend/Blackbird/demo/en_US/requirejs/require.min.js, line 16: Error: Script error for: Magento_Checkout/js/checkout-data
+http://requirejs.org/docs/errors.html#scripterror
+1606227002320	geckodriver	INFO	Listening on 127.0.0.1:55869
+1606227002450	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileuouu4D"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606227008050	Marionette	INFO	Listening on port 55874
+1606227008110	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606227039659	Marionette	INFO	Stopped listening on port 55874
+1606227098214	geckodriver	INFO	Listening on 127.0.0.1:56376
+1606227098263	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofile9p4MJq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606227103612	Marionette	INFO	Listening on port 56381
+1606227103714	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606227116390	Marionette	INFO	Stopped listening on port 56381
+JavaScript error: chrome://marionette/content/proxy.js, line 283: NS_ERROR_NOT_INITIALIZED
+1606227127004	geckodriver	INFO	Listening on 127.0.0.1:56601
+1606227127991	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileMVIhWA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606227134011	Marionette	INFO	Listening on port 56616
+1606227134086	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606227165340	Marionette	INFO	Stopped listening on port 56616
+1606227351315	geckodriver	INFO	Listening on 127.0.0.1:57622
+1606227351435	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileFhMiig"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+2020-11-24 15:16:17.835 firefox-bin[8767:159705] -[NSPersistentUIWindowSnapshotter writeWindowSnapshot:length:width:height:bytesPerRow:toFile:inDirectory:encryptingWithKey:uuid:checksum:fd:]: 0 == ftruncate(fd, finalFileSize) failed on line 803: No such file or directory
+2020-11-24 15:16:17.837 firefox-bin[8767:159705] -[NSPersistentUIWindowSnapshotter writeWindowSnapshot:length:width:height:bytesPerRow:toFile:inDirectory:encryptingWithKey:uuid:checksum:fd:]: 0 == ftruncate(fd, fileLength) failed on line 874: No such file or directory
+1606227380748	Marionette	INFO	Listening on port 57627
+1606227381043	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606227415905	Marionette	INFO	Stopped listening on port 57627
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1606227481732	geckodriver	INFO	Listening on 127.0.0.1:58488
+1606227481918	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofile1jqPBx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+[Parent 8808, IPC Launch #1] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 1299
+[Parent 8808, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1606227504677	Marionette	INFO	Listening on port 58493
+1606227504794	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606227508883	Marionette	INFO	Stopped listening on port 58493
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606227529001	geckodriver	INFO	Listening on 127.0.0.1:58960
+1606227530030	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileaogvh7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606227535349	Marionette	INFO	Listening on port 58971
+1606227535385	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://demo-m2.bird.eu/static/version1599663438/frontend/Blackbird/demo/en_US/requirejs/require.min.js, line 16: Error: Script error for: Magento_Checkout/js/checkout-data
+http://requirejs.org/docs/errors.html#scripterror
+1606227537177	Marionette	INFO	Stopped listening on port 58971
+1606227537990	geckodriver	INFO	Listening on 127.0.0.1:59097
+1606227538866	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileyAD1u7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606227544102	Marionette	INFO	Listening on port 59108
+1606227544133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606227545454	Marionette	INFO	Stopped listening on port 59108
+1606227565092	geckodriver	INFO	Listening on 127.0.0.1:59318
+1606227565160	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileYqmXWV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606227568544	Marionette	INFO	Listening on port 59323
+1606227568660	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://demo-m2.bird.eu/static/version1599663438/frontend/Blackbird/demo/en_US/requirejs/require.min.js, line 16: Error: Script error for: Magento_Checkout/js/checkout-data
+http://requirejs.org/docs/errors.html#scripterror
+1606227570562	Marionette	INFO	Stopped listening on port 59323
+1606227572491	geckodriver	INFO	Listening on 127.0.0.1:59433
+1606227572990	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofilegQvtVa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606227578415	Marionette	INFO	Listening on port 59444
+1606227578491	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606227579774	Marionette	INFO	Stopped listening on port 59444
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 582: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1606227843639	geckodriver	INFO	Listening on 127.0.0.1:60637
+1606227843758	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileQRlKPe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606227852635	Marionette	INFO	Listening on port 60646
+1606227852934	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606227871946	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606227874452	Marionette	INFO	Stopped listening on port 60646
+1606227878152	geckodriver	INFO	Listening on 127.0.0.1:60925
+1606227879131	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileUMs7yE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606227887002	Marionette	INFO	Listening on port 60940
+1606227887055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://demo-m2.bird.eu/static/version1599663438/frontend/Blackbird/demo/en_US/requirejs/require.min.js, line 16: Error: Script error for: Magento_Checkout/js/checkout-data
+http://requirejs.org/docs/errors.html#scripterror
+1606227888996	Marionette	INFO	Stopped listening on port 60940
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 582: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
