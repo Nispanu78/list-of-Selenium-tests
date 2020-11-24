@@ -14,6 +14,9 @@ class FindByXPath(unittest.TestCase):
         self.find_by_x_path = self.driver.find_element_by_xpath("//a[@id='idMozGwzBl']")
         self.find_by_x_path.click()
 
+    def test_by_x_path_starts_with(self):
+        self.find_by_starts_with = self.driver.find_element_by_xpath("//a[starts-with(@ class, 'action')]")
+
     @classmethod
     def tearDown(cls):
         cls.driver.quit()
