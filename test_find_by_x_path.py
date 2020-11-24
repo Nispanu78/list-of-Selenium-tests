@@ -18,6 +18,10 @@ class FindByXPath(unittest.TestCase):
         self.find_by_starts_with = self.driver.find_element_by_xpath("//div[starts-with(@ class, 'minicart')]")
         self.find_by_starts_with.click()
 
+    def test_find_elements_with_only_the_attribute(self):
+        self.find_elements_by_only_the_attribute = self.driver.find_element_by_xpath("//div[@ role]")
+        self.assertTrue(self.find_elements_by_only_the_attribute.is_displayed())
+
     @classmethod
     def tearDown(cls):
         cls.driver.quit()
