@@ -18,8 +18,13 @@ class FindByCSSSelector(unittest.TestCase):
         self.find_minicart_by_css_and_class = self.driver.find_element_by_css_selector("span.text").text
         self.assertEqual("My Cart", self.find_minicart_by_css_and_class)
 
-    def tearDown(self):
-        self.driver.quit()
+    def test_find_by_css_and_id(self):
+        self.find_by_css_and_id = self.driver.find_element_by_css_selector("strong.empty").text
+        self.assertEqual("", self.find_by_css_and_id)
+
+    @classmethod
+    def tearDown(cls):
+        cls.driver.quit()
 
 if __name__ == '__main__':
     unittest.main()

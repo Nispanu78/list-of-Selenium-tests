@@ -759,3 +759,209 @@ JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_
 1606296737502	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
 1606296739478	Marionette	INFO	Stopped listening on port 63687
+1606297239528	geckodriver	INFO	Listening on 127.0.0.1:49516
+1606297240613	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofile8aVqIN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606297260240	Marionette	INFO	Listening on port 49531
+1606297260328	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606297294093	Marionette	INFO	Stopped listening on port 49531
+1606297392049	geckodriver	INFO	Listening on 127.0.0.1:50378
+1606297393102	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileACE3oD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606297399411	Marionette	INFO	Listening on port 50389
+1606297399510	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606297431354	Marionette	INFO	Stopped listening on port 50389
+1606297451130	geckodriver	INFO	Listening on 127.0.0.1:50740
+1606297452094	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileG0Wz59"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606297457718	Marionette	INFO	Listening on port 50751
+1606297457764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606297460767	Marionette	INFO	Stopped listening on port 50751
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1606297520878	geckodriver	INFO	Listening on 127.0.0.1:51135
+1606297521843	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofilefIt1Tl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606297527062	Marionette	INFO	Listening on port 51146
+1606297527091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606297529727	Marionette	INFO	Stopped listening on port 51146
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1606297615138	geckodriver	INFO	Listening on 127.0.0.1:51618
+1606297616081	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileWYqOH3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606297621050	Marionette	INFO	Listening on port 51629
+1606297621123	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606297652978	Marionette	INFO	Stopped listening on port 51629
+1606297715188	geckodriver	INFO	Listening on 127.0.0.1:52129
+1606297716174	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofile13pA3U"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606297720596	Marionette	INFO	Listening on port 52140
+1606297720711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606297752570	Marionette	INFO	Stopped listening on port 52140
+1606297771834	geckodriver	INFO	Listening on 127.0.0.1:52463
+1606297771935	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileFRiWMT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606297776013	Marionette	INFO	Listening on port 52468
+1606297776050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606297808021	Marionette	INFO	Stopped listening on port 52468
+1606297881795	geckodriver	INFO	Listening on 127.0.0.1:53009
+1606297881895	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileafNSEe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606297887926	Marionette	INFO	Listening on port 53014
+1606297888004	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606297889952	Marionette	INFO	Stopped listening on port 53014
+1606298170247	geckodriver	INFO	Listening on 127.0.0.1:54298
+1606298170257	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofilev18aID"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606298173838	Marionette	INFO	Listening on port 54303
+1606298173884	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606298176383	Marionette	INFO	Stopped listening on port 54303
+1606298224707	geckodriver	INFO	Listening on 127.0.0.1:54605
+1606298224731	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofilepcsfD8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606298227976	Marionette	INFO	Listening on port 54610
+1606298228057	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606298230643	Marionette	INFO	Stopped listening on port 54610
+1606298281891	geckodriver	INFO	Listening on 127.0.0.1:54923
+1606298281901	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofile5Fe2Cq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606298284225	Marionette	INFO	Listening on port 54928
+1606298284296	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606298316134	Marionette	INFO	Stopped listening on port 54928
+1606298683614	geckodriver	INFO	Listening on 127.0.0.1:56616
+1606298683833	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileb6CtFP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606298685972	Marionette	INFO	Listening on port 56621
+1606298686012	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606298688634	Marionette	INFO	Stopped listening on port 56621
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1606298894355	geckodriver	INFO	Listening on 127.0.0.1:57544
+1606298895298	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileG0YBVG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606298898957	Marionette	INFO	Listening on port 57555
+1606298899001	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606298900867	Marionette	INFO	Stopped listening on port 57555
+1606298946032	geckodriver	INFO	Listening on 127.0.0.1:57844
+1606298946083	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileGQdoZC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606298949231	Marionette	INFO	Listening on port 57849
+1606298949290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606298981193	Marionette	INFO	Stopped listening on port 57849
+1606300532999	geckodriver	INFO	Listening on 127.0.0.1:64408
+1606300534061	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofilex0dcLc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606300540195	Marionette	INFO	Listening on port 64419
+1606300540279	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606300572741	Marionette	INFO	Stopped listening on port 64419
+1606300838014	geckodriver	INFO	Listening on 127.0.0.1:49356
+1606300839069	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileZxv4SC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606300849493	Marionette	INFO	Listening on port 49367
+1606300849804	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606300885812	Marionette	INFO	Stopped listening on port 49367
+1606301246724	geckodriver	INFO	Listening on 127.0.0.1:51159
+1606301247766	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileN0mHX7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606301252456	Marionette	INFO	Listening on port 51170
+1606301252523	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606301284417	Marionette	INFO	Stopped listening on port 51170
+1606302118289	geckodriver	INFO	Listening on 127.0.0.1:54764
+1606302118369	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofile2ZgPZo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606302122398	Marionette	INFO	Listening on port 54769
+1606302122492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+2020-11-25 12:02:16.180 firefox-bin[6887:126916] -[NSPersistentUIWindowSnapshotter writeWindowSnapshot:length:width:height:bytesPerRow:toFile:inDirectory:encryptingWithKey:uuid:checksum:fd:]: 0 == ftruncate(fd, finalFileSize) failed on line 803: No such file or directory
+2020-11-25 12:02:16.267 firefox-bin[6887:126916] -[NSPersistentUIWindowSnapshotter writeWindowSnapshot:length:width:height:bytesPerRow:toFile:inDirectory:encryptingWithKey:uuid:checksum:fd:]: 0 == ftruncate(fd, fileLength) failed on line 874: No such file or directory
+1606302154545	Marionette	INFO	Stopped listening on port 54769
+1606302311998	geckodriver	INFO	Listening on 127.0.0.1:55642
+1606302313072	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofilepc3yVM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606302320253	Marionette	INFO	Listening on port 55653
+1606302320311	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606302323023	Marionette	INFO	Stopped listening on port 55653
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1606302377434	geckodriver	INFO	Listening on 127.0.0.1:56030
+1606302377545	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofilempzTil"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606302381289	Marionette	INFO	Listening on port 56035
+1606302381362	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606302389626	Marionette	INFO	Stopped listening on port 56035
+1606302510930	geckodriver	INFO	Listening on 127.0.0.1:56658
+1606302511049	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileU1qypI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606302515809	Marionette	INFO	Listening on port 56667
+1606302515903	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606302547767	Marionette	INFO	Stopped listening on port 56667
+1606302886126	geckodriver	INFO	Listening on 127.0.0.1:58270
+1606302886270	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileaEXH2M"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606302889796	Marionette	INFO	Listening on port 58275
+1606302889877	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606302891791	Marionette	INFO	Stopped listening on port 58275
+1606303002187	geckodriver	INFO	Listening on 127.0.0.1:58829
+1606303003154	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofilede7OEr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606303007357	Marionette	INFO	Listening on port 58840
+1606303007391	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606303039273	Marionette	INFO	Stopped listening on port 58840
+1606303237911	geckodriver	INFO	Listening on 127.0.0.1:59875
+1606303237920	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofile4LXVE1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606303241019	Marionette	INFO	Listening on port 59880
+1606303241116	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606303249366	Marionette	INFO	Stopped listening on port 59880
+1606303366660	geckodriver	INFO	Listening on 127.0.0.1:60481
+1606303366712	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x0/y4dv5hps43jgdcbr_zzvw4kc0000gn/T/rust_mozprofileAJMciY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3247: NS_ERROR_ILLEGAL_VALUE
+1606303370486	Marionette	INFO	Listening on port 60486
+1606303370546	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606303373105	Marionette	INFO	Stopped listening on port 60486

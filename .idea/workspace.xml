@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05895178-4e99-4b4d-97ee-4cb934b1c002" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test_find_by_css_selector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_find_element_by_link_text.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_find_by_css_selector.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_find_by_css_selector.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for test_find_by_css_selector.FindByCSSSelector">
+  <component name="RunManager" selected="Python tests.Unittests for test_find_element_by_link_text.FindByLinktext">
     <configuration name="Unittests for test_find_by_css_selector.FindByCSSSelector" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,7 +107,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_find_elements.FindElements" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_find_element_by_link_text.FindByLinktext" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,17 +117,17 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_find_elements.FindElements&quot;" />
+      <option name="_new_target" value="&quot;test_find_element_by_link_text.FindByLinktext&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for test_find_element_by_link_text.FindByLinktext" />
         <item itemvalue="Python tests.Unittests for test_find_by_css_selector.FindByCSSSelector" />
         <item itemvalue="Python tests.Unittests for test_find_by_x_path.FindByXPath" />
         <item itemvalue="Python tests.Unittests for test_find_by_tag.FindByTag" />
         <item itemvalue="Python tests.Unittests for test_find_by_link.FindByLink" />
-        <item itemvalue="Python tests.Unittests for test_find_elements.FindElements" />
       </list>
     </recent_temporary>
   </component>
