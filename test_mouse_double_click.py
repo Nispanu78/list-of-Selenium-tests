@@ -4,7 +4,7 @@ from selenium import webdriver
 class MouseDoubleClick(unittest.TestCase):
     @classmethod
     def setUp(self):
-        self.driver = webdriver.Firefox()
+        self.driver = webdriver.Safari()
         self.driver.maximize_window()
         self.driver.implicitly_wait(30)
 
