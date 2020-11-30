@@ -9,7 +9,7 @@ class MoveToAnElement(unittest.TestCase):
     @classmethod
     def setUp(self):
         # self.driver = webdriver.Firefox(executable_path=r'Macintosh HD/Users/nisp78/Desktop/test/geckodriver.exe')
-        self.driver = webdriver.Safari()
+        self.driver = webdriver.Firefox()
         self.driver.maximize_window()
         self.driver.implicitly_wait(30)
 

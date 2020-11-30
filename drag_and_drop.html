@@ -1,0 +1,41 @@
+“<html>
+<head>
+    <style type="text/css">
+#drag,#drop {
+float:left;padding:15px;margin:15px;-moz-user-select:none;
+         }
+#drag{ background-color:#A9A9A9; height:50px; width:50px; border-radius:50%;    }
+#drop{ background-color:#fd8166; height:100px; width:100px; border-radius:50%;  }
+</style>
+    <script type="text/javascript">
+function dragStart(ev) {
+ev.dataTransfer.setData("Text", ev.target.getAttribute('id'));
+ev.dataTransfer.effectAllowed='move';
+ev.dataTransfer.setDragImage(ev.target,0,0);
+return true;
+         }
+“function dragEnter(ev) {
+event.preventDefault();
+return true;
+         }
+function dragOver(ev) {
+return false;
+         }
+function dragDrop(ev) {
+var src=ev.dataTransfer.getData("Text");
+ev.target.appendChild(document.getElementById(src));
+ev.stopPropagation();
+return false;
+         }
+</script>
+</head>
+<body>
+<h1>Drag and Drop</h1>
+<center>
+    <div id="drop" ondragenter="return dragEnter(event)" ondrop="return dragDrop(event)" ondragover="return dragOver(event)">Drop here</div>
+    <div id="drag" draggable="true" ondragstart="return dragStart(event)">
+        <p>Drag</p>
+    </div>
+</center>
+</body>
+</html>

@@ -1,8 +1,9 @@
 import unittest
 from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 
-class MoveByOffset(unittest.TestCase):
+class KeyBoardActions(unittest.TestCase):
     @classmethod
     def setUp(self):
         self.driver = webdriver.Firefox()
@@ -10,15 +11,17 @@ class MoveByOffset(unittest.TestCase):
         self.driver.maximize_window()
         self.driver.implicitly_wait(30)
 
-        self.driver.get("http://www.apress.com")
+        self.driver.get("https://en.wikipedia.org/wiki/Apress")
 
-    def test_mouse_by_offset(self):
-        x = 268
-        y = 66
-        ActionChains(driver=self.driver).move_by_offset(x, y).perform()
-        # # self.element = self.driver.find_element_by_link_text("CATEGORIES")
-        # # action = ActionChains(driver=self.driver)
-        # # action.move_to_element_with_offset(self.element, 200, 50).click().perform()
+    def test_key_board_actions(self):
+        ActionChains(driver=self.driver) \
+            .key_down(Keys.CONTROL) \
+            .send_keys("a") \
+            .key_up(Keys.CONTROL) \
+            .key_down(Keys.CONTROL) \
+            .send_keys("c") \
+            .key_up(Keys.CONTROL) \
+            .perform()
 
     @classmethod
     def tearDown(self):
@@ -26,4 +29,3 @@ class MoveByOffset(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-
