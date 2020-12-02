@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05895178-4e99-4b4d-97ee-4cb934b1c002" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test_drop_down_menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_assert_dict_equal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_assert_equal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_assert_false.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_assert_greater_less.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_assert_in.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_assert_is.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_assert_is_none.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_assert_is_not.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_assert_is_not_None.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_assert_list_equal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_assert_not_equal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_assert_set_equal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_assert_true.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_assert_tuple_equal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_iframe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_insert_values_in_textbox.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
     </list>
@@ -49,8 +64,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for test_drop_down_menu.TestDropDownMenu">
-    <configuration name="Unittests for test_drop_down_menu.TestDropDownMenu" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests for test_assert_tuple_equal.TestAssertTupleEqual">
+    <configuration name="Unittests for test_assert_list_equal.TestAssertListEqual" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,11 +75,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_drop_down_menu.TestDropDownMenu&quot;" />
+      <option name="_new_target" value="&quot;test_assert_list_equal.TestAssertListEqual&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_find_elements_with_loop.FindElements" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_assert_not_equal.TestAssertIsNotEqual" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +89,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_find_elements_with_loop.FindElements&quot;" />
+      <option name="_new_target" value="&quot;test_assert_not_equal.TestAssertIsNotEqual&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_for_broken_images.TestForBrokenImages" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_assert_set_equal.TestAssertSetEqual" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +103,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_for_broken_images.TestForBrokenImages&quot;" />
+      <option name="_new_target" value="&quot;test_assert_set_equal.TestAssertSetEqual&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_hyperlink_is_valid.TestHyperlinkIsValid" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_assert_true.TestAssertTrue" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,11 +117,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_hyperlink_is_valid.TestHyperlinkIsValid&quot;" />
+      <option name="_new_target" value="&quot;test_assert_true.TestAssertTrue&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_submit_button.TestRadioButton" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_assert_tuple_equal.TestAssertTupleEqual" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,17 +131,17 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_submit_button.TestRadioButton&quot;" />
+      <option name="_new_target" value="&quot;test_assert_tuple_equal.TestAssertTupleEqual&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests for test_drop_down_menu.TestDropDownMenu" />
-        <item itemvalue="Python tests.Unittests for test_find_elements_with_loop.FindElements" />
-        <item itemvalue="Python tests.Unittests for test_submit_button.TestRadioButton" />
-        <item itemvalue="Python tests.Unittests for test_for_broken_images.TestForBrokenImages" />
-        <item itemvalue="Python tests.Unittests for test_hyperlink_is_valid.TestHyperlinkIsValid" />
+        <item itemvalue="Python tests.Unittests for test_assert_tuple_equal.TestAssertTupleEqual" />
+        <item itemvalue="Python tests.Unittests for test_assert_true.TestAssertTrue" />
+        <item itemvalue="Python tests.Unittests for test_assert_set_equal.TestAssertSetEqual" />
+        <item itemvalue="Python tests.Unittests for test_assert_not_equal.TestAssertIsNotEqual" />
+        <item itemvalue="Python tests.Unittests for test_assert_list_equal.TestAssertListEqual" />
       </list>
     </recent_temporary>
   </component>
