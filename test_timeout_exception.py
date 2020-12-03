@@ -8,7 +8,7 @@ from selenium.webdriver.common.by import By
 class TestTimeoutExceptions(unittest.TestCase):
     @classmethod
     def setUp(cls):
-        cls.driver = webdriver.Safari()
+        cls.driver = webdriver.Firefox()
         cls.driver.maximize_window()
         cls.driver.get('https://www.apress.com/')
 
