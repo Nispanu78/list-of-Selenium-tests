@@ -4,7 +4,6 @@
     <list default="true" id="05895178-4e99-4b4d-97ee-4cb934b1c002" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_stale_element.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_stale_element.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +48,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for test_timeout_exception.TestTimeoutExceptions">
-    <configuration name="test_stale_element" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.Unittests for test_expected_conditions.TestExpectedConditions">
+    <configuration name="test_expected_conditions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,7 +61,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_stale_element.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_expected_conditions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_element_not_found.TestElementNotFound" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_expected_conditions.TestExceptions" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,11 +80,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_element_not_found.TestElementNotFound&quot;" />
+      <option name="_new_target" value="&quot;test_expected_conditions.TestExceptions&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_explicit_wait.TestExplicitWait" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_expected_conditions.TestExpectedConditions" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +94,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_explicit_wait.TestExplicitWait&quot;" />
+      <option name="_new_target" value="&quot;test_expected_conditions.TestExpectedConditions&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_implicit_wait.ImplicitWait" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_expected_conditions.TestExpectedConditions.test_text_to_be_present_in_element_value" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +108,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_implicit_wait.ImplicitWait&quot;" />
+      <option name="_new_target" value="&quot;test_expected_conditions.TestExpectedConditions.test_text_to_be_present_in_element_value&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_timeout_exception.TestTimeoutExceptions" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_submit_button.TestRadioButton" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,17 +122,17 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_timeout_exception.TestTimeoutExceptions&quot;" />
+      <option name="_new_target" value="&quot;test_submit_button.TestRadioButton&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests for test_timeout_exception.TestTimeoutExceptions" />
-        <item itemvalue="Python tests.Unittests for test_element_not_found.TestElementNotFound" />
-        <item itemvalue="Python tests.Unittests for test_implicit_wait.ImplicitWait" />
-        <item itemvalue="Python tests.Unittests for test_explicit_wait.TestExplicitWait" />
-        <item itemvalue="Python.test_stale_element" />
+        <item itemvalue="Python tests.Unittests for test_expected_conditions.TestExpectedConditions" />
+        <item itemvalue="Python.test_expected_conditions" />
+        <item itemvalue="Python tests.Unittests for test_expected_conditions.TestExpectedConditions.test_text_to_be_present_in_element_value" />
+        <item itemvalue="Python tests.Unittests for test_submit_button.TestRadioButton" />
+        <item itemvalue="Python tests.Unittests for test_expected_conditions.TestExceptions" />
       </list>
     </recent_temporary>
   </component>
